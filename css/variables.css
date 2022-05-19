@@ -1,0 +1,19 @@
+:root {
+  /* Colors */
+  --pink: #f679ca;
+  --pink-hover: #ff99db;
+
+  --white: #ffffff;
+  --white-hover: #ffeef9;
+  --white-transp: rgba(255, 255, 255, 0.7);
+
+  --gray-100: #050110;
+  --gray-200: #1c1d1f;
+  --gray-200-transp: rgba(28, 29, 31, 0.5);
+  --gray-200-hover: rgba(28, 29, 31, 0.3);
+  --gray-300: #393c40;
+  --gray-400: #5c6066;
+  --gray-800: #f7f8fa;
+  --gray-button: #e7ecf3;
+  --gray-hover: #dee3e9;
+}
